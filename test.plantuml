@@ -1,0 +1,4 @@
+@startuml example
+User -> Server : request
+User <- Server : response
+@enduml
